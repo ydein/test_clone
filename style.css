@@ -4,3 +4,12 @@ h1 {
 p {
 	color: blue;
 }
+.comments_item {
+	width: 100px;
+	background: #f0f0f0;
+	color: navy;
+	border: 1px solid navy;
+	border-radius: 15px;
+	list-style: none;
+	padding: 10px;
+}
